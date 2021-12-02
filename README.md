@@ -1,4 +1,4 @@
-### Hi there, I'm Mohammed Kasim 👋
+### Hi there 👋, I'm Mohammed Kasim 
 
 <!--
 **kasim121/kasim121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
